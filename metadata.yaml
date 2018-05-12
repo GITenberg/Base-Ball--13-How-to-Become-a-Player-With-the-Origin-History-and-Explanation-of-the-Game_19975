@@ -1,0 +1,28 @@
+_repo: Base-Ball--13-How-to-Become-a-Player-With-the-Origin-History-and-Explanation-of-the-Game_19975
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, John Montgomery
+    birthdate: 1860
+    deathdate: 1925
+    gutenberg_agent_id: '9003'
+    url: http://www.gutenberg.org/2009/agents/9003
+    wikipedia: http://en.wikipedia.org/wiki/John_Montgomery_Ward
+description: ''
+gutenberg_issued: '2006-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baseball'
+- !lcc 'GV'
+title: "Base-Ball\r\nHow to Become a Player, With the Origin, History and Explanation\
+  \ of the Game"
+url: http://www.gutenberg.org/ebooks/19975
